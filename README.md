@@ -23,7 +23,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode,node,c,c++," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind,git,github,vscode" />
 </p>
 
 ---
