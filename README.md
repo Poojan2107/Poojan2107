@@ -13,7 +13,7 @@
 | -------- | ------- |
 | 🌟 **Expertise** | HTML, CSS, JavaScript, Bootstrap, C, C++, React.js, jQuery, Git, GitHub, Node.js, Data Structures and Algorithms |
 | 🎓 **Education** | B.Tech in Artificial Intelligence – Gandhinagar Institute of Technology<br>Full Stack Development Course – Red & White Multimedia Institute |
-| 💼 **Projects** | 🔹 Travelling Website<br>🔹 Batman Themed UI Cards<br> |
+| 💼 **Projects** | 🔹 Travelling Website<br> |
 | 🧠 **Goals** | Become a top-tier frontend developer, win hackathons, build a creative portfolio with AI-powered projects |
 | 💬 **Ask me about** | React, JS mini projects, DOM, Bootstrap, localStorage , Front-end Development |
 | 📫 **Contact Me** | poojanshrivastav21@gmail.com |
