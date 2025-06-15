@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Poojan Shrivastav</h1>
+<h3 align="center">A passionate Frontend Developer & Full Stack Learner from India 🇮🇳</h3>
 
-<!--
-**Poojan2107/Poojan2107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=Poojan2107&color=blue&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About Me
+
+| Category | Details |
+| -------- | ------- |
+| 🌟 **Expertise** | HTML, CSS, JavaScript, Bootstrap, C, C++, React.js, jQuery, Git, GitHub, Node.js, Data Structures and Algorithms |
+| 🎓 **Education** | B.Tech in Artificial Intelligence – Gandhinagar Institute of Technology<br>Full Stack Development Course – Red & White Multimedia Institute |
+| 💼 **Projects** | 🔹 Travelling Website<br>🔹 Batman Themed UI Cards<br> |
+| 🧠 **Goals** | Become a top-tier frontend developer, win hackathons, build a creative portfolio with AI-powered projects |
+| 💬 **Ask me about** | React, JS mini projects, DOM, Bootstrap, localStorage , Front-end Development |
+| 📫 **Contact Me** | poojanshrivastav21@gmail.com |
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode,node,c,c++," />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Poojan2107&show_icons=true&theme=github_dark" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojan2107&layout=compact&theme=github_dark" height="180px"/>
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/poojan-palakkumar-shrivastav-0b295931b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Poojan2107" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:poojanshrivastav21@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 🔥 Quote of the Day
+
+> "Develop the Future!"
+---
+
+### 🚀 Let’s build something extraordinary together!
