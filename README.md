@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Poojan Shrivastav</h1>
-<h3 align="center">A passionate Frontend Developer & Full Stack Learner from India 🇮🇳</h3>
+<h3 align="center">A Passionate Frontend Developer & Full Stack Learner</h3>
 
 ---
 
