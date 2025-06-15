@@ -1,5 +1,10 @@
+<!-- Typing Animation Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Poojan+Shrivastav;Frontend+Developer+%7C+Full-Stack+Learner;Learning+Backend+Development+%26+AI+Tools;Let's+build+something+awesome!" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Poojan Shrivastav</h1>
-<h3 align="center">A Passionate Frontend Developer & Full Stack Learner</h3>
+<h3 align="center">A passionate Frontend Developer & Full-Stack Learner</h3>
 
 ---
 
@@ -11,11 +16,11 @@
 
 | Category | Details |
 | -------- | ------- |
-| 🌟 **Expertise** | HTML, CSS, JavaScript, Bootstrap, C, C++, React.js, jQuery, Git, GitHub, Node.js, Data Structures and Algorithms |
+| 🌟 **Expertise** | HTML, CSS, JavaScript, Bootstrap, Tailwind, C, C++, React.js, jQuery, Git, GitHub, Node.js, Data Structures and Algorithms |
 | 🎓 **Education** | B.Tech in Artificial Intelligence – Gandhinagar Institute of Technology<br>Full Stack Development Course – Red & White Multimedia Institute |
-| 💼 **Projects** | 🔹 Travelling Website<br> |
+| 💼 **Projects** | 🔹 [Travelling Website]<br>🔹 [Batman UI Cards]<br>🔹 [QR Code Form App]<br> |
 | 🧠 **Goals** | Become a top-tier frontend developer, win hackathons, build a creative portfolio with AI-powered projects |
-| 💬 **Ask me about** | React, JS mini projects, DOM, Bootstrap, localStorage , Front-end Development |
+| 💬 **Ask me about** | React, JS mini projects, DOM, Bootstrap, localStorage, Front-end Development |
 | 📫 **Contact Me** | poojanshrivastav21@gmail.com |
 
 ---
@@ -23,7 +28,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -37,11 +42,13 @@
 
 ---
 
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Poojan+Shrivastav;Frontend+Developer+%7C+Full-Stack+Learner;Learning+Backend+Development+%26+AI+Tools;Let's+build+something+awesome!" alt="Typing SVG" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poojan2107&theme=github-dark&hide_border=true" />
 </p>
 
+---
 
 ## 🔗 Connect with Me
 
@@ -55,7 +62,8 @@
 
 ## 🔥 Quote of the Day
 
-> "Develop the Future!"
+> “Develop the Future!”
+
 ---
 
 ### 🚀 Let’s build something extraordinary together!
