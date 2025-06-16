@@ -16,7 +16,7 @@
 
 | Category | Details |
 | -------- | ------- |
-| 🌟 **Expertise** | HTML, CSS, JavaScript, Bootstrap, Tailwind, C, C++, React.js, jQuery, Git, GitHub, Node.js, Data Structures and Algorithms |
+| 🌟 **Expertise** | HTML, CSS, JavaScript, Bootstrap, Tailwind, C, C++, Python, React.js, jQuery, Git, GitHub, Node.js, Express.js, Data Structures and Algorithms |
 | 🎓 **Education** | B.Tech in Artificial Intelligence – Gandhinagar Institute of Technology<br>Full Stack Development Course – Red & White Multimedia Institute |
 | 💼 **Projects** | 🔹 [Travelling Website]<br>🔹 [Batman UI Cards]<br>🔹 [QR Code Form App]<br> |
 | 🧠 **Goals** | Become a top-tier frontend developer, win hackathons, build a creative portfolio with AI-powered projects |
@@ -28,7 +28,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,c,cpp,bootstrap,tailwind,git,github,vscode" />
 </p>
 
 ---
