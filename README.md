@@ -1,6 +1,5 @@
-<!-- Typing Animation Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Poojan+Shrivastav;MERN Stack+Developer+%7C;Let's+build+something+awesome!" alt="Typing Animation" />
+<!-- Typing Animation Banner --><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Poojan+Shrivastav%3BMERN+Stack+Developer+%7C%3BLet%27s+build+something+awesome%21" alt="Typing Animation" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Poojan Shrivastav</h1>
