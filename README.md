@@ -16,10 +16,10 @@
 
 | Category | Details |
 | -------- | ------- |
-| 🌟 **Expertise** | HTML, CSS, JavaScript, Bootstrap, Tailwind, C, C++, Python, React.js, jQuery, Git, GitHub, MongoDB, Node.js, Express.js, Data Structures and Algorithms |
-| 🎓 **Education** | B.Tech in Artificial Intelligence – Gandhinagar Institute of Technology<br>Full Stack Development Course – Red & White Multimedia Institute |
-| 💼 **Projects** | 🔹 [Travelling Website](#) <br> 🔹 [Translator App](#) <br> 🔹 [MovieVerse](#) |
-| 📫 **Contact** | [📧 poojanshrivastav21@gmail.com](mailto:poojanshrivastav21@gmail.com) |
+| 🌟**Expertise** | HTML, CSS, JavaScript, Bootstrap, Tailwind, C, C++, Python, React.js, jQuery, Git, GitHub, MongoDB, Node.js, Express.js, Data Structures and Algorithms |
+| 🎓**Education** | B.Tech in Artificial Intelligence – Gandhinagar Institute of Technology<br>Full Stack Development Course – Red & White Multimedia Institute |
+| 💼 **Projects**  | 🔹 [Travelling Website](#) <br> 🔹 [Translator App](#) <br> 🔹 [MovieVerse](#) |
+| 📫 **Contact**   | [📧 poojanshrivastav21@gmail.com](mailto:poojanshrivastav21@gmail.com) |
 
 ---
 
