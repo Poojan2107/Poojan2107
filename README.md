@@ -26,8 +26,9 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,cpp,bootstrap,tailwind,git,github,vscode&perline=7" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,python,c,cpp,bootstrap,tailwind,git,github,vscode&theme=dark&perline=8" alt="skills" style="margin: 10px;"/></a>
 </p>
+
 
 ---
 
