@@ -29,32 +29,6 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,python,c,cpp,bootstrap,tailwind,git,github,vscode&theme=dark&perline=8" alt="skills" style="margin: 10px;"/></a>
 </p>
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Poojan2107&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojan2107&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180px"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poojan2107&theme=tokyonight&hide_border=true&background=0D1117&ring=00E6FE&fire=00E6FE&currStreakLabel=00E6FE" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Poojan2107&theme=algolia&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 🌐 Connect with Me
