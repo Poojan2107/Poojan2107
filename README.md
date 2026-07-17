@@ -5,11 +5,23 @@ Full Stack Developer • AI Engineering Student • Building Production SaaS & A
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications, AI-powered solutions, and solving real-world business problems through software engineering.
+Passionate about building scalable web applications, AI-powered solutions, and software that solves real-world business problems.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Poojan2107&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Poojan2107&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+
+![](https://img.shields.io/badge/Developer_Intern-KaryaUp-blue?style=for-the-badge)
+
+![](https://img.shields.io/badge/AI_Engineering-B.Tech-success?style=for-the-badge)
+
+![](https://img.shields.io/badge/Full_Stack-MERN-0A66C2?style=for-the-badge)
+
+![](https://img.shields.io/badge/Currently_Building-Production_SaaS-orange?style=for-the-badge)
+
 </p>
 
 ---
@@ -17,12 +29,22 @@ Passionate about building scalable web applications, AI-powered solutions, and s
 # 🚀 About Me
 
 - 💼 Developer Intern @ **KaryaUp**
-- 🚀 Co-Founder & Developer at **Oneverce**
-- 🎓 B.Tech in Artificial Intelligence
-- 🤖 Passionate about AI Engineering, Full Stack Development & System Design
-- 🌱 Currently exploring AI Agents, LLM Applications, Distributed Systems & Cloud Architecture
-- 💡 Love building products that solve real business problems
-- ⚡ Strong believer in **"Build. Ship. Improve."**
+- 🚀 Co-Founder & Full Stack Developer at **Oneverce**
+- 🎓 Pursuing **B.Tech in Artificial Intelligence**
+- 🤖 Passionate about Full Stack Development, AI Engineering & System Design
+- 🌱 Exploring AI Agents, LLM Applications, Distributed Systems & Cloud
+- ⚡ Building production-ready software with performance and scalability in mind
+- 💡 Always learning, always shipping.
+
+---
+
+# 🚧 Currently Building
+
+- 🏢 Enterprise SaaS Platform @ KaryaUp
+- 🌍 Client Products through Oneverce
+- 🤖 AI-powered Web Applications
+- ⚙️ Production-grade Full Stack Systems
+- 📚 Preparing for Product-Based Software Engineering Internships
 
 ---
 
@@ -46,22 +68,17 @@ Passionate about building scalable web applications, AI-powered solutions, and s
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,prisma" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
+<img src="https://www.svgrepo.com/show/354210/prisma.svg" width="48"/>
 </p>
 
-### AI & Cloud
+### Cloud & Dev Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare,git,github" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,cloudflare,vscode,postman,figma" />
 </p>
 
 ---
@@ -71,80 +88,77 @@ Passionate about building scalable web applications, AI-powered solutions, and s
 ## 🚀 Developer Intern — KaryaUp
 
 - Building production-grade enterprise SaaS applications
-- AI-powered workflow automation
-- Frontend architecture & reusable component systems
+- Developing reusable frontend architecture
 - Performance optimization & asset optimization
-- Cross-browser compatibility
-- Production deployments
-- UI/UX improvements
-- Responsive design engineering
+- AI-powered workflow features
+- Responsive & cross-browser UI engineering
+- Production deployments & code quality improvements
 
 ---
 
 ## 🌍 Co-Founder & Full Stack Developer — Oneverce
 
-- Building digital products for startups and businesses
-- Working directly with real clients
-- Delivering scalable web applications
-- Designing production-ready architectures
-- Managing complete development lifecycle
+- Building digital products for startups & businesses
+- Working directly with clients
+- Designing scalable web architectures
+- Developing end-to-end full stack applications
+- Managing complete software development lifecycle
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 OpenBridge
+## 🏆 OpenBridge
 
-AI-powered Open Source onboarding platform helping developers discover repositories, understand contribution workflows, and find beginner-friendly issues.
+AI-powered Open Source onboarding platform helping developers discover repositories, understand contribution workflows and start contributing faster.
 
-🏆 **Runner-Up — Build With AI Ahmedabad**
+**🥈 Runner-Up — Build With AI Ahmedabad**
 
 ---
 
 ## 🌍 Travel Booking Platform
 
-Production-ready travel itinerary & booking platform built for a real client featuring destination showcases, bookings, and modern responsive UI.
+Production-ready travel itinerary & booking platform built for a real client featuring destination showcases, booking workflows and responsive user experience.
 
 ---
 
-## 📋 FormX
+## 📝 FormX
 
-Modern AI-powered forms platform with intelligent workflows and automation.
+Modern AI-powered forms platform focused on intelligent workflows and automation.
 
 ---
 
-## 💼 Enterprise SaaS Platform
+## 🏢 Enterprise SaaS
 
-Contributing to enterprise productivity software focused on workflow automation, AI features, and performance engineering.
+Contributing to an enterprise productivity platform focused on workflow automation, AI features and scalable frontend architecture.
 
 ---
 
 # 🎯 Current Focus
 
 - 🤖 AI Engineering
-- 🧠 AI Agents & LLM Integrations
+- 🧠 LLM Applications
 - ⚙️ System Design
 - 📚 Data Structures & Algorithms
-- ☁️ Scalable Backend Development
-- 🚀 Performance Optimization
-- 🌐 Distributed Systems
-- 📈 Production SaaS Development
+- 🌐 Backend Architecture
+- ☁️ Scalable Systems
+- 🚀 Performance Engineering
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Poojan2107&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Poojan2107&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Poojan2107&theme=github-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojan2107&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojan2107&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -152,13 +166,12 @@ Contributing to enterprise productivity software focused on workflow automation,
 
 # 🌱 Currently Learning
 
-- Large Language Models
 - AI Agents
+- Large Language Models
 - System Design
-- Cloud Infrastructure
 - Distributed Systems
+- Cloud Infrastructure
 - Backend Scalability
-- Software Architecture
 - DevOps Fundamentals
 
 ---
@@ -166,21 +179,21 @@ Contributing to enterprise productivity software focused on workflow automation,
 # 🎯 2026 Goals
 
 - 🚀 Build impactful AI-first products
-- 💼 Crack a top product-based company internship
+- 💼 Secure a top product-based internship
 - 🧠 Master System Design
 - 📚 Solve 500+ DSA problems
 - 🌍 Contribute to Open Source
-- ⚡ Build scalable SaaS products used by thousands
+- ⚡ Build software used by thousands of users
 
 ---
 
-# 🏆 Achievements
+# 🏆 Highlights
 
-- 🥈 Runner-Up — Build With AI Ahmedabad Hackathon
+- 🥈 Runner-Up — Build With AI Ahmedabad
 - 💼 Developer Intern @ KaryaUp
-- 🚀 Co-Founder & Developer — Oneverce
-- 🤝 Successfully delivered products for real clients
-- ⚙️ Built production-ready AI & SaaS applications
+- 🚀 Co-Founder — Oneverce
+- 🤝 Built software for real-world clients
+- 🌍 Production SaaS & AI product development
 
 ---
 
@@ -204,24 +217,24 @@ Contributing to enterprise productivity software focused on workflow automation,
 
 ---
 
-# ☕ Fun Facts
+# 💭 Fun Facts
 
-- 🚀 I enjoy optimizing applications as much as building them.
+- ⚡ I enjoy optimizing applications as much as building them.
 - 🤖 AI is my favorite engineering multiplier.
-- 💡 I believe software should solve real problems, not just demonstrate technology.
-- ⚡ If something is repetitive, I'll automate it.
-- 🌍 Always building, always learning.
+- 🚀 Building real products excites me more than building demos.
+- 💡 I believe software should solve business problems, not just showcase technology.
+- 📈 Continuous improvement > overnight success.
 
 ---
 
 <h3 align="center">
 
-💬 *"Code is temporary. Impact is permanent."*
+💬 <i>"Build things people actually use."</i>
 
 </h3>
 
 <h3 align="center">
 
-⭐ Thanks for visiting my profile! Let's build something extraordinary together. ⭐
+⭐ Thanks for visiting my profile! Feel free to connect, collaborate, or build something awesome together. ⭐
 
 </h3>
