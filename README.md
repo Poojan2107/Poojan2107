@@ -1,62 +1,227 @@
-<!-- Typing Animation -->
+<h1 align="center">Hi 👋, I'm Poojan Shrivastav</h1>
+
+<h3 align="center">
+Full Stack Developer • AI Engineering Student • Building Production SaaS & AI Products
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00E6FE&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Poojan+Shrivastav;MERN+Stack+Developer+%7C;Passionate+about+Building+Scalable+Web+Apps!" alt="Typing Animation" />
+Passionate about building scalable web applications, AI-powered solutions, and solving real-world business problems through software engineering.
 </p>
 
-<h1 align="center">✨ Hi 👋, I'm <span style="color:#00E6FE;">Poojan Shrivastav</span> ✨</h1>
-<h3 align="center">A passionate <span style="color:#16FF00;">MERN Stack Developer</span> from India 🇮🇳</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Poojan2107&label=Profile%20Views&color=00E6FE&style=flat-square" alt="Profile Views"/>
-</p>
-
----
-
-## 💡 About Me
-
-| Category | Details |
-| -------- | ------- |
-| 🌟 **Expertise** | HTML, CSS, JavaScript, Bootstrap, Tailwind, C, C++, Python, React.js, jQuery, Git, GitHub, MongoDB, Node.js, Express.js, Data Structures and Algorithms |
-| 🎓 **Education** | B.Tech in Artificial Intelligence – Gandhinagar Institute of Technology<br>Full Stack Development Course – Red & White Multimedia Institute |
-| 💼 **Projects**  | 🔹 [ProductNexus](#) <br> 🔹 [Travelling Tent](#) <br> 🔹 [MovieVerse](#) |
-| 📫 **Contact**   | [📧 poojanshrivastav21@gmail.com](mailto:poojanshrivastav21@gmail.com) |
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,python,c,cpp,bootstrap,tailwind,git,github,vscode&theme=dark&perline=8" alt="skills" style="margin: 10px;"/></a>
+<img src="https://komarev.com/ghpvc/?username=Poojan2107&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 🚀 About Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/poojan-palakkumar-shrivastav-0b295931b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Poojan2107" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:poojanshrivastav21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+- 💼 Developer Intern @ **KaryaUp**
+- 🚀 Co-Founder & Developer at **Oneverce**
+- 🎓 B.Tech in Artificial Intelligence
+- 🤖 Passionate about AI Engineering, Full Stack Development & System Design
+- 🌱 Currently exploring AI Agents, LLM Applications, Distributed Systems & Cloud Architecture
+- 💡 Love building products that solve real business problems
+- ⚡ Strong believer in **"Build. Ship. Improve."**
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,prisma" />
+</p>
+
+### AI & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare,git,github" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
 </p>
 
 ---
 
-## 💬 Quote of the Day  
+# 💼 Experience
+
+## 🚀 Developer Intern — KaryaUp
+
+- Building production-grade enterprise SaaS applications
+- AI-powered workflow automation
+- Frontend architecture & reusable component systems
+- Performance optimization & asset optimization
+- Cross-browser compatibility
+- Production deployments
+- UI/UX improvements
+- Responsive design engineering
+
+---
+
+## 🌍 Co-Founder & Full Stack Developer — Oneverce
+
+- Building digital products for startups and businesses
+- Working directly with real clients
+- Delivering scalable web applications
+- Designing production-ready architectures
+- Managing complete development lifecycle
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 OpenBridge
+
+AI-powered Open Source onboarding platform helping developers discover repositories, understand contribution workflows, and find beginner-friendly issues.
+
+🏆 **Runner-Up — Build With AI Ahmedabad**
+
+---
+
+## 🌍 Travel Booking Platform
+
+Production-ready travel itinerary & booking platform built for a real client featuring destination showcases, bookings, and modern responsive UI.
+
+---
+
+## 📋 FormX
+
+Modern AI-powered forms platform with intelligent workflows and automation.
+
+---
+
+## 💼 Enterprise SaaS Platform
+
+Contributing to enterprise productivity software focused on workflow automation, AI features, and performance engineering.
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 AI Engineering
+- 🧠 AI Agents & LLM Integrations
+- ⚙️ System Design
+- 📚 Data Structures & Algorithms
+- ☁️ Scalable Backend Development
+- 🚀 Performance Optimization
+- 🌐 Distributed Systems
+- 📈 Production SaaS Development
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <em>"Develop the Future!"</em>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Poojan2107&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Poojan2107&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojan2107&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-<h3 align="center">🚀 Let's build something extraordinary together! 🚀</h3>
+# 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+- Large Language Models
+- AI Agents
+- System Design
+- Cloud Infrastructure
+- Distributed Systems
+- Backend Scalability
+- Software Architecture
+- DevOps Fundamentals
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build impactful AI-first products
+- 💼 Crack a top product-based company internship
+- 🧠 Master System Design
+- 📚 Solve 500+ DSA problems
+- 🌍 Contribute to Open Source
+- ⚡ Build scalable SaaS products used by thousands
+
+---
+
+# 🏆 Achievements
+
+- 🥈 Runner-Up — Build With AI Ahmedabad Hackathon
+- 💼 Developer Intern @ KaryaUp
+- 🚀 Co-Founder & Developer — Oneverce
+- 🤝 Successfully delivered products for real clients
+- ⚙️ Built production-ready AI & SaaS applications
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/poojanshrivastav21">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:poojanshrastav21@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/Poojan2107">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </p>
+
+---
+
+# ☕ Fun Facts
+
+- 🚀 I enjoy optimizing applications as much as building them.
+- 🤖 AI is my favorite engineering multiplier.
+- 💡 I believe software should solve real problems, not just demonstrate technology.
+- ⚡ If something is repetitive, I'll automate it.
+- 🌍 Always building, always learning.
+
+---
+
+<h3 align="center">
+
+💬 *"Code is temporary. Impact is permanent."*
+
+</h3>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! Let's build something extraordinary together. ⭐
+
+</h3>
